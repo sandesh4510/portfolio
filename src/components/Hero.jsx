@@ -24,12 +24,10 @@ function Hero() {
           Based in Butwal, Nepal
         </span>
         <a
-          href="/resume.pdf"
-          target="_blank"
-          rel="noreferrer"
+          href="#contact"
           className="rounded-full border border-orange-200/45 bg-orange-200/10 px-4 py-2 font-['JetBrains_Mono'] tracking-[0.11em] text-orange-100 transition hover:-translate-y-0.5 hover:bg-orange-200/20"
         >
-          Resume ↗
+          Contact me →
         </a>
       </div>
 

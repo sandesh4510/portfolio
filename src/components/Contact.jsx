@@ -14,7 +14,7 @@ function Contact() {
       </h2>
 
       <a
-        href="mailto:you@example.com"
+        href="mailto:sandeshgh19@example.com"
         className="mt-6 inline-block rounded-full border border-white/30 bg-white/10 px-5 py-2.5 font-['JetBrains_Mono'] text-sm tracking-[0.14em] text-white transition hover:-translate-y-0.5 hover:bg-white/20"
       >
         sandeshgh19@example.com
